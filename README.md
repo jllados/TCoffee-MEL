@@ -1,4 +1,4 @@
-TCoffee v.11 with Memory Efficient Library reduction - JCB 2016
+TCoffee v.11 with Memory Efficient Library reduction
 TCoffee-MEL
 =========
 T-Coffee is a collection of tools for Computing, Evaluating and Manipulating 
